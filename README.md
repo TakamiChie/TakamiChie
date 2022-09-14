@@ -7,7 +7,7 @@ SIDE BEACH CITY.では、SBCast.などの地域活動紹介オンライン放送
 
 それらに関連するアプリケーションの開発も行っています。
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakamiChie&layout=compact)](https://github.com/TakamiChie/github-readme-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakamiChie)](https://github.com/TakamiChie/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakamiChie&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakamiChie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## リンク集
 
