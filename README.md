@@ -41,6 +41,7 @@ SIDE BEACH CITY.では、SBCast.などの地域活動紹介オンライン放送
   * [Peatix](https://sbc-community.peatix.com/)
 * その他リンク
   * [AI生成画像集](https://photos.app.goo.gl/FwDNi87SGGJxoEnQ9) ※ たまにDALL-E2で遊んでいるよ。
+  * [AI問答集](https://takamichie.notion.site/67c7609855084fd186f9e059ab70f327?v=12aa62c17a4640b0b4e087eea283d7ab) ※ テキストの質問問答集はこちら
 * そのほか
   * Nintendo Switch フレンドコード：SW-6258-6162-3908
   * あつまれ どうぶつの森 夢番地：DA-2868-9737-7160
