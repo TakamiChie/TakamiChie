@@ -25,18 +25,6 @@
   * [ちえラジ Chat \| stand\.fm](https://stand.fm/channels/5f7a95b2f04555115d70a146)
     * [ちえラジ Chat ポッドキャスト版 • Anchorのポッドキャスト](https://anchor.fm/takamichie) ※ 配信内容はstand.fmと同じです。
   * [高見知英のかいはつにっし\(β\)](https://blog.onpu-tamago.net/)
-* SBC.
-  * [まちづくりエージェント SIDE BEACH CITY\.](https://sbc.yokohama/)
-    * [SBCast\.](https://sbc.yokohama/sbcast)
-    * [SBC\.オープンマイク](https://sbc.yokohama/sbc-openmic)
-  * [全体Twitter](https://twitter.com/sidebeachcity)
-  * [SBCast.専用Twitter](https://twitter.com/sbcast045)
-  * [Facebookページ](https://www.facebook.com/realcityagentsbc)
-  * [Instagram](https://www.instagram.com/sbc.yokohama/)
-  * [TikTok](https://www.tiktok.com/@sbc.yokohama)
-  * [YouTube](https://www.youtube.com/channel/UCXIlDY1V9Aff-jp_ByHJPOQ)
-  * [Speaker Deck](https://speakerdeck.com/cityagentsbc)
-  * [Peatix](https://sbc-community.peatix.com/)
 * その他リンク
   * [AI生成画像集](https://photos.app.goo.gl/FwDNi87SGGJxoEnQ9) ※ たまにDALL-E2で遊んでいるよ。
   * [AI問答集](https://takamichie.notion.site/67c7609855084fd186f9e059ab70f327?v=12aa62c17a4640b0b4e087eea283d7ab) ※ テキストの質問問答集はこちら
